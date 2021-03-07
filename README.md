@@ -6,7 +6,7 @@ Written in python because I'm cheap.
 
 The plan is to include these functionalities in the actual BoomBox Editor. Support for Reaper files in the tool is possible because of the easy to use existing Reaper parsers. 
 
-File converts BPM only but midi notes conversion could be possible too.
+File converts BPM only but midi notes conversion could be possible in the future.
 
 ## HOW TO USE
 
