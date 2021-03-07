@@ -1,4 +1,4 @@
-# --- Midi to Bom Converter Scuffed Version 0.1 ---
+# Midi to Bom Converter Scuffed Version 0.1 
 
 This is a temporary tool to convert midi tempo changes to TimingPoints in the .box file.
 
@@ -8,7 +8,7 @@ The plan is to include these functionalities in the actual BoomBox Editor. Suppo
 
 File converts BPM only but midi notes conversion could be possible too.
 
-## --- HOW TO USE ---
+## HOW TO USE
 
 1. Create a BOM file with the BoomBox Editor (make sure to make a back up)
 2. Run MIDI to BOM Converter
@@ -17,7 +17,7 @@ File converts BPM only but midi notes conversion could be possible too.
 5. Convert BPM :)
 
 
-## --- CREDITS ---
+## CREDITS 
 
 These are the python libraries used:
 
@@ -31,7 +31,7 @@ Copyright 2015 Sviatoslav Abakumov
 
 https://docs.python.org/3/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element
 
-## --- OTHER ---
+## OTHER
 
 The Python Imaging Library (PIL) is
 
