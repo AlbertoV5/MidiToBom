@@ -11,7 +11,7 @@ import rpp
 
 
 def GetBPM_FromRPP(rppFileName):    
-    """ returns list of (bpm, pos) tuplets """
+    """ returns list of [bpm, pos] floats """
     
     with open(rppFileName, "r") as file:
         r = rpp.loads(file.read())    
