@@ -24,6 +24,9 @@ These are the python libraries used:
 MIDO
 https://github.com/mido/mido
 
+    Copyright (c) Ole Martin Bjørndalen
+
+
 RPP
 https://github.com/Perlence/rpp
 
