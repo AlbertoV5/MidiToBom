@@ -46,7 +46,5 @@ Pillow is the friendly PIL fork. It is
     Copyright © 2010-2021 by Alex Clark and contributors
 ---
 
-Here is the code for this tool: https://github.com/AlbertoV5/MidiToBom
-
 
 Beto
