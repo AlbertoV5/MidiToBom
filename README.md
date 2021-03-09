@@ -58,7 +58,7 @@ Before converting any midi, make sure to sync the midi or rpp to the .ogg file y
 
 ![Step3](gifs/midi03.gif)
 
-NOTE: IF YOU ARE MISSING A BPM CHANGE AT THE END, ADD AN EXTRA ONE TO YOUR MIDI/REAPER SESSION.
+NOTE: IF YOU ARE MISSING A BPM CHANGE AT THE END, ADD AN EXTRA ONE TO YOUR MIDI/REAPER SESSION. The editor currently ignores the last "TimingPoint".
 
 
 Beto
