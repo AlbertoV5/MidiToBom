@@ -8,22 +8,6 @@ The plan is to include these functionalities in the actual BoomBox Editor. Suppo
 
 File converts BPM only but midi notes conversion could be possible in the future.
 
-## HOW TO USE
-
-1. Create a BOM file with the BoomBox Editor (make sure to make a back up)
-
-![Step1](gifs/midi01.gif)
-
-2. Run MIDI to BOM Converter, load midi/rpp and bom files. Convert!
-
-![Step2](gifs/midi02.gif)
-
-3. Open BOM file back in the editor
-
-
-![Step3](gifs/midi03.gif)
-
-
 ## CREDITS 
 
 These are the python libraries used:
@@ -52,6 +36,23 @@ Pillow is the friendly PIL fork. It is
 
     Copyright © 2010-2021 by Alex Clark and contributors
 ---
+
+## HOW TO USE
+
+1. Create a BOM file with the BoomBox Editor (make sure to make a back up)
+
+![Step1](gifs/midi01.gif)
+
+2. Run MIDI to BOM Converter, load midi/rpp and bom files. Convert!
+
+![Step2](gifs/midi02.gif)
+
+3. Open BOM file back in the editor
+
+
+![Step3](gifs/midi03.gif)
+
+
 
 
 Beto
