@@ -8,9 +8,7 @@ The plan is to include these functionalities in the actual BoomBox Editor. Suppo
 
 File converts BPM only but midi notes conversion could be possible in the future.
 
-## DOWNLOAD .EXE
-
-https://drive.google.com/file/d/1VmHSMC-BFp_srPHQ3nUdbdiHxyQxxHQp/view?usp=sharing
+Download link below!
 
 ## CREDITS 
 
@@ -40,6 +38,10 @@ Pillow is the friendly PIL fork. It is
 
     Copyright © 2010-2021 by Alex Clark and contributors
 ---
+
+## DOWNLOAD .EXE
+
+https://drive.google.com/file/d/1VmHSMC-BFp_srPHQ3nUdbdiHxyQxxHQp/view?usp=sharing
 
 ## HOW TO USE
 
