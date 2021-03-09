@@ -2,7 +2,7 @@
 
 This is a temporary tool to convert midi tempo changes to TimingPoints in the .box file. It also supports Reaper files (.rpp)
 
-Written in Python because it's easier, while we wait for the Editor support.
+Written in Python because it's easier to make (also the rpp support), while we wait for the Editor support.
 
 The plan is to include these functionalities in the actual BoomBox Editor. Support for Reaper files in this tool is possible because of the easy to use existing Reaper parsers for Python. 
 
