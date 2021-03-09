@@ -27,7 +27,7 @@ https://github.com/mido/mido
 RPP
 https://github.com/Perlence/rpp
 
-Copyright 2015 Sviatoslav Abakumov
+    Copyright 2015 Sviatoslav Abakumov
 
 https://docs.python.org/3/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element
 
