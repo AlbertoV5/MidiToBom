@@ -43,6 +43,8 @@ https://drive.google.com/file/d/1VmHSMC-BFp_srPHQ3nUdbdiHxyQxxHQp/view?usp=shari
 
 ## HOW TO USE
 
+Before converting any midi, make sure to sync the midi or rpp to the .ogg file you are using! 
+
 1. Create a BOM file with the BoomBox Editor (make sure to make a back up if you are using an existing map)
 
 ![Step1](gifs/midi01.gif)
@@ -56,7 +58,7 @@ https://drive.google.com/file/d/1VmHSMC-BFp_srPHQ3nUdbdiHxyQxxHQp/view?usp=shari
 
 ![Step3](gifs/midi03.gif)
 
-
+NOTE: IF YOU ARE MISSING A BPM CHANGE AT THE END, ADD AN EXTRA ONE TO YOUR MIDI/REAPER SESSION.
 
 
 Beto
