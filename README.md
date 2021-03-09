@@ -43,7 +43,7 @@ https://drive.google.com/file/d/1VmHSMC-BFp_srPHQ3nUdbdiHxyQxxHQp/view?usp=shari
 
 ## HOW TO USE
 
-1. Create a BOM file with the BoomBox Editor (make sure to make a back up if you are using an old map)
+1. Create a BOM file with the BoomBox Editor (make sure to make a back up if you are using an older map)
 
 ![Step1](gifs/midi01.gif)
 
