@@ -4,7 +4,7 @@ This is a temporary tool to convert midi tempo changes to TimingPoints in the .b
 
 Written in Python because I'm cheap. 
 
-The plan is to include these functionalities in the actual BoomBox Editor. Support for Reaper files in the tool is possible because of the easy to use existing Reaper parsers for Python. 
+The plan is to include these functionalities in the actual BoomBox Editor. Support for Reaper files in this tool is possible because of the easy to use existing Reaper parsers for Python. 
 
 File converts BPM only but midi notes conversion could be possible in the future.
 
