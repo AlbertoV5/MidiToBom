@@ -13,10 +13,11 @@ File converts BPM only but midi notes conversion could be possible in the future
 1. Create a BOM file with the BoomBox Editor (make sure to make a back up)
 ![Step1](gifs/midi01.gif)
 
-3. Run MIDI to BOM Converter
-4. Press browse .mid/.rpp, make sure to change file type (bottom right) if importing RPP
-5. Press browse .bom file
-6. Convert BPM :)
+2. Run MIDI to BOM Converter, load midi/rpp and bom files. Convert!
+![Step2](gifs/midi02.gif)
+
+3. Open BOM file back in the editor
+![Step3](gifs/midi03.gif)
 
 
 ## CREDITS 
