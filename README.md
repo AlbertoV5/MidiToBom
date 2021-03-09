@@ -37,6 +37,10 @@ Pillow is the friendly PIL fork. It is
     Copyright © 2010-2021 by Alex Clark and contributors
 ---
 
+## DOWNLOAD
+
+https://drive.google.com/file/d/1VmHSMC-BFp_srPHQ3nUdbdiHxyQxxHQp/view?usp=sharing
+
 ## HOW TO USE
 
 1. Create a BOM file with the BoomBox Editor (make sure to make a back up)
