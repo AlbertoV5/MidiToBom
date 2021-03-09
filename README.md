@@ -1,6 +1,6 @@
 # Midi to Bom Converter Scuffed Version 0.1 
 
-This is a temporary tool to convert midi tempo changes to TimingPoints in the .box file.
+This is a temporary tool to convert midi tempo changes to TimingPoints in the .box file. It also supports Reaper files (.rpp)
 
 Written in python because I'm cheap. 
 
