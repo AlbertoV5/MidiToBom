@@ -1,4 +1,4 @@
-# Midi to Bom BPM Converter Scuffed Version 0.1 
+# Midi to Bom BPM Converter 
 
 This is a temporary tool to convert midi tempo changes to TimingPoints in the .box file. It also supports Reaper files (.rpp)
 
