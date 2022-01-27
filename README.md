@@ -1,4 +1,4 @@
-# Midi to Bom BPM Converter 
+# Midi to Bom (JSON) BPM Converter 
 
 This is a temporary tool to convert midi tempo changes to TimingPoints in the .box file. It also supports Reaper files (.rpp)
 
